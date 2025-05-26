@@ -1,6 +1,6 @@
 ---
 layout: slide
-title: "Welcome to our slide deck!"
+title: "Get your own slide deck!"
 ---
 
 Caption here
